@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mahmoud Morad
+# 👋 Hi, I’m Mahmoud Mourad
 
 <p align="center">
   <img src="https://github.com/mahmoudmourad9/mahmoudmourad9/raw/main/Image%209.png" width="600"/>
