@@ -58,21 +58,6 @@ I’m passionate about learning and always exploring new technologies to improve
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudMou70829&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMou70829&layout=compact&theme=radical"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudMou70829&theme=radical"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudMou70829)  
